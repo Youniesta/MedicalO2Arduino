@@ -4,7 +4,7 @@ Arduino codes and docs for using O2 medical sensors
 [KE-25_KE-50_DataSheet.pdf](https://github.com/MakerLabCRI/MedicalO2SensorsArduino/files/6415594/KE-25_KE-50_DataSheet.pdf)
 
 # Schematic
-![Circuit](https://user-images.githubusercontent.com/47628329/126790017-de5db2b1-55db-4525-ae83-4d80277502cd.png)
+![Circuit](https://user-images.githubusercontent.com/47628329/126790159-1b4f24de-4318-4b4f-b2cd-765bafbb3e7a.png)
 
 # Graph between KE-50 oxygen sensor and O2 multimeter
 On this graph, we can see the curves of the O2 sensor KE-50 and the O2 multimeter CY-12C before and after they receive a O2 pulse of 1 second.
